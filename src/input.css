@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@theme{
+    --color-clifford: #da771d;
+    --color-text-default: #DAC5A7;
+    --color-background-default: #0E0E0E;
+    --color-background-primary: #DAC5A7;
+    --color-background-secondary: #1A1A1A;
+    --font-ancizar: "Ancizar Serif", serif;
+}
